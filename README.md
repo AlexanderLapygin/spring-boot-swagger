@@ -12,9 +12,14 @@
 - maven
 - spring-boot
 - starter
+- swagger
 - template
 
 ---
+
+## Direct ancestor
+
+- [- swagger](https://github.com/AlexanderLapygin/spring-boot-helloworld#readme)
 
 ## Direct descendant
 
@@ -34,6 +39,10 @@
 [Maven](https://maven.apache.org/)
 
 ---
+
+# Check the Swagger
+
+Take a look at http://localhost:8080/swagger-ui.html.
 
 ## Run
 
