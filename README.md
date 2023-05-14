@@ -4,7 +4,7 @@
     </a>
 </div> 
 
-# HelloWorld on Spring Boot
+# HelloWorld on Spring Boot with Swagger
 
 
 ## Feature tags
