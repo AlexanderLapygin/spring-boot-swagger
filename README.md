@@ -47,7 +47,7 @@ mvnw spring-boot:run
 ```
 
 
-# Check the Swagger
+# Check Swagger
 
 Take a look at http://localhost:8080/swagger-ui.html.
 
