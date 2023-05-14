@@ -40,15 +40,16 @@
 
 ---
 
-# Check the Swagger
-
-Take a look at http://localhost:8080/swagger-ui.html.
-
 ## Run
 
 ```sh
 mvnw spring-boot:run
 ```
+
+
+# Check the Swagger
+
+Take a look at http://localhost:8080/swagger-ui.html.
 
 ### License
 
